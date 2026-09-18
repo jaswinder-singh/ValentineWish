@@ -2,7 +2,7 @@
     Valentine's Wish
 </h1>
 
-[![Author](https://img.shields.io/badge/author-jaswinder-singh-green)](https://github.com/jaswinder-singh)
+[![Author](https://img.shields.io/badge/author-jaswinder--singh-green)](https://github.com/jaswinder-singh)
 
 
 #### [See it Live](https://jaswinder-singh.github.io/ValentineWish/)
